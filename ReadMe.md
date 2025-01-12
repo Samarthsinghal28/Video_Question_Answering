@@ -58,3 +58,8 @@ This iterative approach allowed us to successfully handle context-dependent quer
 
 ## Conclusion
 Our combined system of Video LLaVA and Whisper effectively processes both visual and audio content, enabling comprehensive video analysis and answering diverse user queries. By employing advanced prompt engineering and context management, we achieved a robust solution for the Video Question Answering problem.
+
+
+## Video
+For Gemni https://drive.google.com/file/d/1mJgeGw1sNkyqqNQ0shs62JiU3lOvhCfe/view?usp=drive_link
+For LLaVa https://drive.google.com/file/d/1pnMeLYRXYkOYDKKKVECZLhf3GOEIBUSt/view?usp=drive_link
