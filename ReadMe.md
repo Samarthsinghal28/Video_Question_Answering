@@ -13,7 +13,7 @@ ONE SIMPLE SOLUTION
 ## Approach
 We began by leveraging **Video LLaVA** to process videos and answer related questions.
 
-<img src="image-1.png" alt="Example Image" width="200">
+<img src="image-2.png" alt="Example Image" width="200">
 
 ### Advantages of Using Video LLaVA:
 1. **Video Content Analysis**: LLaVA efficiently extracts and processes key frames from a video to understand its visual content, capturing crucial details while maintaining computational efficiency.
