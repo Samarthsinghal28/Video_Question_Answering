@@ -61,5 +61,6 @@ Our combined system of Video LLaVA and Whisper effectively processes both visual
 
 
 ## Video
-For Gemni https://drive.google.com/file/d/1mJgeGw1sNkyqqNQ0shs62JiU3lOvhCfe/view?usp=drive_link
-For LLaVa https://drive.google.com/file/d/1pnMeLYRXYkOYDKKKVECZLhf3GOEIBUSt/view?usp=drive_link
+<a href="https://drive.google.com/file/d/1mJgeGw1sNkyqqNQ0shs62JiU3lOvhCfe/view?usp=drive_link">For Gemini</a>
+
+<a href="https://drive.google.com/file/d/1pnMeLYRXYkOYDKKKVECZLhf3GOEIBUSt/view?usp=drive_link">For Video-LlaVa</a>
